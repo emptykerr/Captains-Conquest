@@ -1,6 +1,6 @@
 # Captain's Conquest - 2D Platformer Game
 
-![Captain's Conquest Banner](link_to_banner_image.png)
+![Captain's Conquest Banner](banner.jpg)
 
 Welcome to Captain's Conquest, a thrilling 2D platformer game written in Java from the ground up. Embark on a daring adventure as a courageous pirate, determined to make it to your pirate ship while defeating menacing cannons, crafty crabs, and deadly spikes!
 
